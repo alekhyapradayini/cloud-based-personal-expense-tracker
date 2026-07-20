@@ -1,0 +1,6 @@
+{
+  "name": "Cloud-Based Personal Expense Tracker",
+  "description": "A secure, cloud-ready Personal Expense Tracker web application featuring multi-category analytics, robust backend APIs, JWT authentication, and automated DevOps deployment configurations for AWS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

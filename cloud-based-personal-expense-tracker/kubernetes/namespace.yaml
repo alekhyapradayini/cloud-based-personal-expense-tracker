@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: finops-prod
+  labels:
+    environment: production
+    app: finops-tracker

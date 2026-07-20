@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: backend-config
+  namespace: finops-prod
+data:
+  DB_HOST: "rds-mysql-cluster.ca-central-1.rds.amazonaws.com"
+  DB_USER: "rdsadmin"
+  NODE_ENV: "production"
+  PORT: "3000"
